@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1-dev.3",
+  "version": "1.0.1-dev.4",
   "compatible": "picturenest-cm4",
-  "bundle": "https://github.com/picturenest/picturenest-releases/releases/download/v1.0.1-dev.3/picturenest-bundle-1.0.1-dev.3.raucb",
+  "bundle": "https://github.com/picturenest/picturenest-releases/releases/download/v1.0.1-dev.4/picturenest-bundle-1.0.1-dev.4.raucb",
   "size": 214145871,
-  "released": "2026-11-08T15:44:44Z",
-  "notes": "Test: unchanged boot partition is skipped."
+  "released": "2026-11-08T20:30:55Z",
+  "notes": "Test update from the phone"
 }
