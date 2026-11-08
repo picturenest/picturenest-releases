@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1-dev.1",
+  "version": "1.0.1-dev.2",
   "compatible": "picturenest-cm4",
-  "bundle": "https://github.com/picturenest/picturenest-releases/releases/download/v1.0.1-dev.1/picturenest-bundle-1.0.1-dev.1.raucb",
+  "bundle": "https://github.com/picturenest/picturenest-releases/releases/download/v1.0.1-dev.2/picturenest-bundle-1.0.1-dev.2.raucb",
   "size": 214145871,
-  "released": "2026-11-08T15:24:58Z",
-  "notes": "Test release: updates from the web UI."
+  "released": "2026-11-08T15:35:10Z",
+  "notes": "Skip the boot partition when it did not change (smaller updates)."
 }
